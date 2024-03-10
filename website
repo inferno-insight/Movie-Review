@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inferno Insight</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: orange;
+            text-shadow: 2px 2px 4px #000000;
+        }
+        main {
+            padding: 20px;
+        }
+        .review {
+            border-bottom: 1px solid white;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        .review h2 {
+            color: orange;
+        }
+        .review p {
+            color: white;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Inferno Insight</h1>
+    </header>
+    <main>
+        <div class="review">
+            <h2>Movie Review: Fire of Paradise</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac eros ut turpis convallis tristique. Nullam in lacus vel mauris ultrices pretium. Fusce quis felis vel quam tristique euismod. Fusce fermentum eros vel mi pulvinar efficitur. Nam sed eleifend mi. Vestibulum nec convallis elit, in viverra quam. Proin eget malesuada leo.</p>
+            <p>Suspendisse potenti. Sed suscipit massa ut tempus mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla facilisi. Phasellus at dapibus dui. Morbi vitae orci auctor, laoreet arcu ac, vulputate justo. Nulla facilisi. Cras auctor auctor nunc, eu cursus eros scelerisque eu. Suspendisse potenti.</p>
+            <p>Donec nec nisl nec velit tristique scelerisque non vitae sem. Curabitur lobortis nulla non lectus blandit, at vehicula leo gravida. Proin volutpat consectetur augue vitae placerat. Nulla euismod nulla auctor mi vehicula lobortis. Fusce mattis enim eu risus efficitur, non varius arcu rutrum. Vivamus id libero vel nibh consequat pulvinar nec in ex.</p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Inferno Insight - All rights reserved.</p>
+    </footer>
+</body>
+</html>
